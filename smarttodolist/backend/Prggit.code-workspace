@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Smart-to-do-list",
+			"path": "../../Smart-to-do-list"
+		}
+	],
+	"settings": {}
+}
